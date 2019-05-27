@@ -1,0 +1,16 @@
+# Windows Updates:
+1. Fully update to Windows 10 1803/ 1809
+
+# Antivirus:
+1. Uninstall all antivirus software and reboot PC.
+2. Disable windows defender, and windows APP & Browser Control.
+
+# Task Manager
+1. Origin - Close via task manager
+
+# Application instructions
+1. Run Origin as admin.
+2. Disable Discord Overlay and nvidia (turn it OFF.)
+3.Enable Origin Ingame
+4. Run the loader and inject.
+5. Start Game
